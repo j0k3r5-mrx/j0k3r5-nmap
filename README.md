@@ -1,3 +1,4 @@
 # j0k3r5-mrx. 
 # CODED BY M.R.X.
+# SUPPORTS PYTHON 3.
 # COPY WITH CREDITS.
