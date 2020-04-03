@@ -1,1 +1,3 @@
-# j0k3r5-mrx
+# j0k3r5-mrx. 
+# CODED BY M.R.X.
+# COPY WITH CREDITS.
